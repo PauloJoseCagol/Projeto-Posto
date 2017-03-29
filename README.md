@@ -41,6 +41,9 @@ Vídeo
 Vídeo demonstrativo.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udEqGnbm1dU/0.jpg)](https://www.youtube.com/watch?v=udEqGnbm1dU)
+
+
+----------
 Screenshots
 ---------------------------------------------------------------------------
 Algumas das telas do projeto.
