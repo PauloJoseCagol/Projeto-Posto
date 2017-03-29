@@ -165,7 +165,7 @@ Scripts Backup
 ---------------------------------------------------------------------------
 
 ```bat
-@ECHO ON
+@ECHO OFF
 @CLS
 @COLOR 02
 @FOR /F "tokens=1-4 delims=/ " %%I IN ('DATE /t') DO SET data=%%L-%%K-%%J
