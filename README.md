@@ -39,10 +39,10 @@ Caso de uso (Venda).
 Vídeo
 ---------------------------------------------------------------------------
 Vídeo demonstrativo.
-~#1
+>#1
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udEqGnbm1dU/0.jpg)](https://www.youtube.com/watch?v=udEqGnbm1dU)
 
-~#2
+>#2
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Eyon3LG9D-4/0.jpg)](https://www.youtube.com/watch?v=Eyon3LG9D-4)
 
 
